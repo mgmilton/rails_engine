@@ -6,7 +6,6 @@ This project utilizes Ruby on Rails and ActiveRecord to build a JSON API which e
 
 ## Table of Contents
 - [Getting Started](#getting-started)
-- [Prerequisites](#prequisites)
 - [Installing](#installing)
 - [Complex Queries](#complex-querying)
 - [Running the Tests](#running-the-tests)
